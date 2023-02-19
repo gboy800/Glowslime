@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "glowslime_mod:glowslime_block"
+    }
+  ],
+  "result": {
+    "item":"glowslime_mod:glowing_slimeball",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "item.glowslime_mod.glowing_slimeball": "Glowing Slimeball",
+  "item.glowslime_mod.glowslime_spawn_egg": "Glowslime Spawn Egg",
+
+  "block.glowslime_mod.glowslime_block": "Glowslime Block",
+
+  "itemGroup.glowslime_mod": "Glowslime Items",
+
+  "entity.glowslime_mod.glowslime": "Glowslime",
+
+  "item.minecraft.potion.effect.glowing_potion": "Potion of Glowing",
+  "item.minecraft.potion.effect.long_glowing_potion": "Potion of Glowing",
+  "item.minecraft.splash_potion.effect.glowing_potion": "Splash Potion of Glowing",
+  "item.minecraft.splash_potion.effect.long_glowing_potion": "Splash Potion of Glowing",
+  "item.minecraft.lingering_potion.effect.glowing_potion": "Lingering Potion of Glowing",
+  "item.minecraft.lingering_potion.effect.long_glowing_potion": "Lingering Potion of Glowing",
+  "item.minecraft.tipped_arrow.effect.glowing_potion": "Arrow of Glowing",
+  "item.minecraft.tipped_arrow.effect.long_glowing_potion": "Arrow of Glowing"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "glowslime_mod:items/glowing_slimeball"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "glowslime_mod:glowing_slimeball"
+    }
+  },
+  "result": {
+    "item":"glowslime_mod:glowslime_block",
+    "count": 1
+  }
+}

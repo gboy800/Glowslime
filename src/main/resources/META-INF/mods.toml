@@ -1,0 +1,30 @@
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml"
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="[36,)"
+license="All Rights Reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]]
+modId="glowslime_mod" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Gboy800's Glowslime Mod" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+#logoFile=""
+#credits=""
+authors="Gboy800"
+description='''
+This mod adds glowing slimes to Minecraft. It also adds brewable potions of glowing.
+'''
+[[dependencies.glowslime_mod]]
+    modId="forge"
+    mandatory=true #mandatory
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.glowslime_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
